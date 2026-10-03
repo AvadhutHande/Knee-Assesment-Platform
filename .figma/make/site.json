@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly input and manage data from various hardware sensors or manually enter demo data, streamlining project development for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
